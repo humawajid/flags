@@ -1,0 +1,35 @@
+.flag {
+  width: 300px;
+  height: 180px;
+  border: 2px solid black;
+  margin: 20px;
+}
+
+/* Romania */
+.romania {
+  display: flex;
+}
+.romania div {
+  width: 100px;
+  height: 180px;
+}
+.blue { background: blue; }
+.yellow { background: yellow; }
+.red { background: red; }
+
+/* Poland */
+.poland .top {
+  height: 90px;
+  background: white;
+}
+.poland .bottom {
+  height: 90px;
+  background: red;
+}
+
+/* Thailand */
+.thailand .stripe1 { height: 30px; background: red; }
+.thailand .stripe2 { height: 30px; background: white; }
+.thailand .stripe3 { height: 60px; background: blue; }
+.thailand .stripe4 { height: 30px; background: white; }
+.thailand .stripe5 { height: 30px; background: red; }
